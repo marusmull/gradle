@@ -259,6 +259,7 @@ The build cache has anonymous read access, so you don't need to authenticate in 
 
 If you are not getting cache hits from the build cache, you may be using the wrong version of Java. A fixed version (Java 11) is required to get remote cache hits.
 
+## CONTRIBUTING
 ### Building a distribution from source
 
 To create a Gradle distribution from the source tree you can run either of the following:
